@@ -4,7 +4,7 @@ UI of Travelling application to find best hotels. Developed using Flutter
 
 ## 📱 Screen Shots
 
-<img src="https://user-images.githubusercontent.com/101502781/164793244-71a617d0-b418-4a0e-9598-61df95e6443e.jpeg" width=180>  <img src="https://user-images.githubusercontent.com/101502781/164793251-2f8f9acf-58da-40ee-85d6-d6af084d54cb.jpeg" width=180>
+<img src="https://user-images.githubusercontent.com/101502781/164793244-71a617d0-b418-4a0e-9598-61df95e6443e.jpeg" width=195>  <img src="https://user-images.githubusercontent.com/101502781/164793251-2f8f9acf-58da-40ee-85d6-d6af084d54cb.jpeg" width=195>
 
 ## 🧑 Author
 
