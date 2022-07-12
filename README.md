@@ -1,6 +1,6 @@
 # The Travel UI
 
-UI of Travelling application to find best hotels. Developed using Flutter
+UI of Travelling application to find best hotels. Developed using Flutter.
 
 ## 📱 Screen Shots
 
